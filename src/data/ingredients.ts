@@ -1,0 +1,20 @@
+export const availableIngredients = [
+  { id: 'beef', name: 'Steak Haché Black Angus', icon: '🥩' },
+  { id: 'chicken', name: 'Poulet', icon: '🍗' },
+  { id: 'lettuce', name: 'Salade', icon: '🥬' },
+  { id: 'tomato', name: 'Tomate', icon: '🍅' },
+  { id: 'onion', name: 'Oignon', icon: '🧅' },
+  { id: 'cheese', name: 'Fromage', icon: '🧀' },
+  { id: 'bacon', name: 'Bacon', icon: '🥓' },
+  { id: 'egg', name: 'Œuf', icon: '🥚' },
+  { id: 'avocado', name: 'Avocat', icon: '🥑' },
+  { id: 'mushroom', name: 'Champignons', icon: '🍄' },
+  { id: 'pickle', name: 'Cornichon', icon: '🥒' },
+  { id: 'jalapeno', name: 'Jalapeño', icon: '🌶️' },
+  { id: 'garlic', name: 'Ail', icon: '🧄' },
+  { id: 'olive', name: 'Olive', icon: '🫒' },
+  { id: 'potato', name: 'Pomme de terre', icon: '🥔' },
+  { id: 'carrot', name: 'Carotte', icon: '🥕' },
+  { id: 'corn', name: 'Maïs', icon: '🌽' },
+  { id: 'pepper', name: 'Poivron', icon: '🫑' }
+];
